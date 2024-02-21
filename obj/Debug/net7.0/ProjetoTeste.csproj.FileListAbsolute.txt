@@ -1,0 +1,14 @@
+C:\microsoft_csharp\ProjetoTeste\bin\Debug\net7.0\ProjetoTeste.exe
+C:\microsoft_csharp\ProjetoTeste\bin\Debug\net7.0\ProjetoTeste.deps.json
+C:\microsoft_csharp\ProjetoTeste\bin\Debug\net7.0\ProjetoTeste.runtimeconfig.json
+C:\microsoft_csharp\ProjetoTeste\bin\Debug\net7.0\ProjetoTeste.dll
+C:\microsoft_csharp\ProjetoTeste\bin\Debug\net7.0\ProjetoTeste.pdb
+C:\microsoft_csharp\ProjetoTeste\obj\Debug\net7.0\ProjetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\microsoft_csharp\ProjetoTeste\obj\Debug\net7.0\ProjetoTeste.AssemblyInfoInputs.cache
+C:\microsoft_csharp\ProjetoTeste\obj\Debug\net7.0\ProjetoTeste.AssemblyInfo.cs
+C:\microsoft_csharp\ProjetoTeste\obj\Debug\net7.0\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\microsoft_csharp\ProjetoTeste\obj\Debug\net7.0\ProjetoTeste.dll
+C:\microsoft_csharp\ProjetoTeste\obj\Debug\net7.0\refint\ProjetoTeste.dll
+C:\microsoft_csharp\ProjetoTeste\obj\Debug\net7.0\ProjetoTeste.pdb
+C:\microsoft_csharp\ProjetoTeste\obj\Debug\net7.0\ProjetoTeste.genruntimeconfig.cache
+C:\microsoft_csharp\ProjetoTeste\obj\Debug\net7.0\ref\ProjetoTeste.dll
