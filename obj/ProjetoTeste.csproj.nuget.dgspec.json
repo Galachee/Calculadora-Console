@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\microsoft_csharp\\ProjetoTeste\\ProjetoTeste.csproj": {}
+    "C:\\microsoft_csharp\\Calculadora-Console\\ProjetoTeste.csproj": {}
   },
   "projects": {
-    "C:\\microsoft_csharp\\ProjetoTeste\\ProjetoTeste.csproj": {
+    "C:\\microsoft_csharp\\Calculadora-Console\\ProjetoTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\microsoft_csharp\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectUniqueName": "C:\\microsoft_csharp\\Calculadora-Console\\ProjetoTeste.csproj",
         "projectName": "ProjetoTeste",
-        "projectPath": "C:\\microsoft_csharp\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectPath": "C:\\microsoft_csharp\\Calculadora-Console\\ProjetoTeste.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\microsoft_csharp\\ProjetoTeste\\obj\\",
+        "outputPath": "C:\\microsoft_csharp\\Calculadora-Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
