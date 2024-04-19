@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\microsoft_csharp\\Calculadora-Console\\ProjetoTeste.csproj",
-      "projectName": "ProjetoTeste",
-      "projectPath": "C:\\microsoft_csharp\\Calculadora-Console\\ProjetoTeste.csproj",
+      "projectUniqueName": "C:\\microsoft_csharp\\Calculadora-Console\\Calculadora.csproj",
+      "projectName": "Calculadora",
+      "projectPath": "C:\\microsoft_csharp\\Calculadora-Console\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
       "outputPath": "C:\\microsoft_csharp\\Calculadora-Console\\obj\\",
       "projectStyle": "PackageReference",
@@ -64,19 +64,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.16, 7.0.16]"
+            "version": "[7.0.18, 7.0.18]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.16, 7.0.16]"
+            "version": "[7.0.18, 7.0.18]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.16, 7.0.16]"
+            "version": "[7.0.18, 7.0.18]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.16, 7.0.16]"
+            "version": "[7.0.18, 7.0.18]"
           }
         ],
         "frameworkReferences": {
@@ -84,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

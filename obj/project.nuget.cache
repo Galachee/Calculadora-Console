@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "92DEymr++6dltzLLDiDjjJvcztv6FZmtQ/5+pZHz+mn9LX31gpSExHJ7Xfec/ClEE/N70n+7dl749c92hfh4AQ==",
+  "dgSpecHash": "fTEUqlzBemVbJU8eC2ME6Sb9XqFdPFxmuxYaKVgS7OxKwsbqqzPOlivMJ1rRcq7BYBaIFUH+2rFtoJ+4QBYvEg==",
   "success": true,
-  "projectFilePath": "C:\\microsoft_csharp\\Calculadora-Console\\ProjetoTeste.csproj",
+  "projectFilePath": "C:\\microsoft_csharp\\Calculadora-Console\\Calculadora.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
   ],
   "logs": []
 }
