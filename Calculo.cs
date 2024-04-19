@@ -1,6 +1,6 @@
 ﻿namespace Calculadora;
 
-public class Calcular
+public class Calculo
 {
     //Métodos para o calculo das operações
     public static void Soma(){

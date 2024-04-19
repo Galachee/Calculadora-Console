@@ -64,7 +64,7 @@ public class Program
                     Console.Clear();
                     System.Console.WriteLine("CALCULANDO ADIÇÃO.......");
                     System.Console.WriteLine(" ");
-                    Calcular.Soma();
+                    Calculo.Soma();
                     System.Console.WriteLine(" ");
                     System.Console.WriteLine("Digite qualquer tecla para voltar ao menu");
                     Console.ReadLine();
@@ -75,7 +75,7 @@ public class Program
                     Console.Clear();
                     System.Console.WriteLine("CALCULANDO SUBTRAÇÃO.......");
                     System.Console.WriteLine(" ");
-                    Calcular.Subtracao();
+                    Calculo.Subtracao();
                     System.Console.WriteLine(" ");
                     System.Console.WriteLine("Digite qualquer tecla para voltar ao menu");
                     Console.ReadLine();
@@ -86,7 +86,7 @@ public class Program
                     Console.Clear();
                     System.Console.WriteLine("CALCULANDO MULTIPLICAÇÃO.......");
                     System.Console.WriteLine(" ");
-                    Calcular.Multiplicacao();
+                    Calculo.Multiplicacao();
                     System.Console.WriteLine(" ");
                     System.Console.WriteLine("Digite qualquer tecla para voltar ao menu");
                     Console.ReadLine();
@@ -97,7 +97,7 @@ public class Program
                     Console.Clear();
                     System.Console.WriteLine("CALCULANDO DIVISÃO.......");
                     System.Console.WriteLine(" ");
-                    Calcular.Divisao();
+                    Calculo.Divisao();
                     System.Console.WriteLine(" ");
                     System.Console.WriteLine("Digite qualquer tecla para voltar ao menu");
                     Console.ReadLine();
