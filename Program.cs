@@ -17,7 +17,8 @@ public class Program
 
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Red;
-
+            System.Console.WriteLine(ex.Message);
+            
             System.Console.WriteLine("Digite uma das opções disponíveis!");
             System.Console.WriteLine(" ");
             System.Console.WriteLine("Pressione qualquer tecla para voltar ao menu");

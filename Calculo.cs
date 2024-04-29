@@ -11,14 +11,10 @@ public class Calculo
         System.Console.WriteLine("Digite o segundo valor");
         float num2 = Convert.ToSingle(Console.ReadLine());
     
-        float result = num1-num2;
+        float result = num1+num2;
         
         Console.Clear();
-        System.Console.Write("CALCULANDO.");
-        Thread.Sleep(1000);
-        Console.Write(".");
-        Thread.Sleep(1000);
-        Console.WriteLine(".");
+        System.Console.Write("Soma: ");
         System.Console.WriteLine(" ");
         System.Console.WriteLine($"{num1} - {num2} = {result}");
     }
@@ -34,11 +30,7 @@ public class Calculo
         float result = num1-num2;
         
         Console.Clear();
-        System.Console.Write("CALCULANDO.");
-        Thread.Sleep(1000);
-        Console.Write(".");
-        Thread.Sleep(1000);
-        Console.WriteLine(".");
+        System.Console.Write("Subtração: ");
         System.Console.WriteLine(" ");
         System.Console.WriteLine($"{num1} - {num2} = {result}");
     }
@@ -54,11 +46,7 @@ public class Calculo
         float result = num1*num2;
         
         Console.Clear();
-        System.Console.Write("CALCULANDO.");
-        Thread.Sleep(1000);
-        Console.Write(".");
-        Thread.Sleep(1000);
-        Console.WriteLine(".");
+        System.Console.Write("Multiplicação:");
         System.Console.WriteLine(" ");
         System.Console.WriteLine($"{num1} * {num2} = {result}");
     }
@@ -74,11 +62,7 @@ public class Calculo
         float result = num1/num2;
         
         Console.Clear();
-        System.Console.Write("CALCULANDO.");
-        Thread.Sleep(1000);
-        Console.Write(".");
-        Thread.Sleep(1000);
-        Console.WriteLine(".");
+        System.Console.Write("Divisão:");
         System.Console.WriteLine(" ");
         System.Console.WriteLine($"{num1} / {num2} = {result}");
     }

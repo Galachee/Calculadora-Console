@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\microsoft_csharp\\Calculadora-Console\\Calculadora.csproj",
+      "projectUniqueName": "C:\\microsoft_csharp\\calculadora-console\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\microsoft_csharp\\Calculadora-Console\\Calculadora.csproj",
+      "projectPath": "C:\\microsoft_csharp\\calculadora-console\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\microsoft_csharp\\Calculadora-Console\\obj\\",
+      "outputPath": "C:\\microsoft_csharp\\calculadora-console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,24 +61,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.18, 7.0.18]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.18, 7.0.18]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.18, 7.0.18]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.18, 7.0.18]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
