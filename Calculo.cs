@@ -16,7 +16,7 @@ public class Calculo
         Console.Clear();
         System.Console.Write("Soma: ");
         System.Console.WriteLine(" ");
-        System.Console.WriteLine($"{num1} - {num2} = {result}");
+        System.Console.WriteLine($"{num1} + {num2} = {result}");
     }
 
     public static void Subtracao(){

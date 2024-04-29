@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\microsoft_csharp\\Calculadora-Console\\Calculadora.csproj": {}
+    "C:\\microsoft_csharp\\calculadora-console\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\microsoft_csharp\\Calculadora-Console\\Calculadora.csproj": {
+    "C:\\microsoft_csharp\\calculadora-console\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\microsoft_csharp\\Calculadora-Console\\Calculadora.csproj",
+        "projectUniqueName": "C:\\microsoft_csharp\\calculadora-console\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\microsoft_csharp\\Calculadora-Console\\Calculadora.csproj",
+        "projectPath": "C:\\microsoft_csharp\\calculadora-console\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\microsoft_csharp\\Calculadora-Console\\obj\\",
+        "outputPath": "C:\\microsoft_csharp\\calculadora-console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
